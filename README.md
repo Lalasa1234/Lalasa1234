@@ -1,3 +1,3 @@
 - I am currently pursuing a Master of Science in Artificial Intelligence from the University of Buffalo 📖💻
 - I am actively looking for AI application developer internships for summer 2025
-- I have six years of global industrial exposure to software development and data science and analytics.
+- I have six years of global industrial exposure to software development, business analytics and data science.
